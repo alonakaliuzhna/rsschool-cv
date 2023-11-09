@@ -30,3 +30,17 @@ _Dedicated Software Developer proficient in HTML, CSS, JavaScript, React, and No
 * Willingness to learn 
 * Time management skills
 * Organizational skills
+
+## Code Example
+
+```
+const planets = ["Earth", "Mars", "Venus", "Jupiter"];
+const planetsLengths = planets.map((planet) => planet.length);
+
+console.log(planets); //["Earth", "Mars", "Venus", "Jupiter"];
+console.log(planetsLengths); //[5, 4, 6, 6];
+
+```
+
+
+
