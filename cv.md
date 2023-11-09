@@ -42,5 +42,24 @@ console.log(planetsLengths); //[5, 4, 6, 6];
 
 ```
 
+## Experience
+January 2022 - Present
+EXADEL POLAND Sp. z o.o
+
+***Associate Software Engineer***
+ * Consult on and implement various IT projects.
+* Develop and create new computer programs and their individual components.
+* Collaborate with cross-functional teams to deliver high-quality software solutions.
+
+## Education
+
+***Full Stack Developer***
+
+sub> School GoIt Ukraine </sub>  
+<sub> 2021-2022</sub>
+
+
+
+
 
 
