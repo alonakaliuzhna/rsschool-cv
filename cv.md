@@ -58,7 +58,15 @@ EXADEL POLAND Sp. z o.o
 <sub> School GoIt Ukraine </sub>  
 <sub> 2021-2022</sub>
 
+## Languages 
 
+Ukrainian -  native
+
+Russian   -  native 
+
+Spanish   -  advanced
+
+English   -  intermediate
 
 
 
